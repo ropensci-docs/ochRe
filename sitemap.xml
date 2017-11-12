@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/ochRe/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/ochRe/reference/elev.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/ochRe/reference/ochre_pal.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/ochRe/reference/ochre_palettes.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/ochRe/reference/scale_color_ochre.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/ochRe/reference/scale_fill_ochre.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/ochRe/reference/viz_palette.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/ochRe/articles/ochre.html</loc>
+  </url>
+</urlset>

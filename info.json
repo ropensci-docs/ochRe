@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "9a3ef466f9b77015f6ad27759dba1b9433580f8f",
+    "author": "Dianne Cook <visnut@gmail.com>",
+    "time": "2017-11-12 21:42:36",
+    "files": 1,
+    "merge": false,
+    "message": "expanded and ordered the galah palette\n"
+  },
+  "remote": "https://github.com/ropenscilabs/ochRe",
+  "pkg": "ochRe"
+}
